@@ -1,8 +1,8 @@
 {
-  "title": "Blog Saya",
-  "tagline": "Catatan tentang teknologi, SEO, dan pengembangan web",
-  "description": "Blog pribadi berisi tutorial, opini, dan catatan seputar pengembangan web, SEO, dan teknologi terkini.",
-  "author": "Admin",
+  "title": "GudangWEB",
+  "tagline": "Demo Website Gitcompany",
+  "description": "Demo website Gitcompany, website static dengan content management sistem lengkap yang ringan & SEO Ready",
+  "author": "GudangWeb",
   "language": "id",
   "theme": "perusahaan",
   "themeOptions": {
@@ -303,15 +303,15 @@
   "basePath": "",
   "postsPerPage": 10,
   "defaultOgImage": "",
-  "logo": "",
-  "favicon": "",
+  "logo": "/public/images/1781273514305-logo-gudangweb-1.png",
+  "favicon": "/public/images/1781273532408-gudangweb-logo.png",
   "footerCopyright": "",
   "social": {
-    "github": "username",
-    "twitter": "",
-    "instagram": "",
-    "linkedin": "",
-    "email": ""
+    "github": "#",
+    "twitter": "#",
+    "instagram": "#",
+    "linkedin": "#",
+    "email": "support@gudangweb.com"
   },
   "nav": [
     {
