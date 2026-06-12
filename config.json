@@ -231,28 +231,28 @@
         },
         "services": [
           {
+            "icon": "target",
+            "title": "SEO ready",
+            "text": "Struktur halaman dibuat rapi dengan title, heading, meta description, dan konten yang mudah dibaca mesin pencari.",
+            "url": ""
+          },
+          {
             "icon": "layers",
-            "title": "Pengembangan Web",
-            "text": "Website cepat, aman, dan ramah SEO yang dibangun sesuai kebutuhan bisnis Anda.",
-            "url": "#"
+            "title": "Mobile first",
+            "text": "Desain diprioritaskan untuk tampilan HP, karena sebagian besar calon pelanggan membuka website dari smartphone.",
+            "url": ""
           },
           {
-            "icon": "chart",
-            "title": "Optimasi SEO",
-            "text": "Riset kata kunci, optimasi teknis, dan strategi konten untuk mendongkrak peringkat di Google.",
-            "url": "#"
+            "icon": "rocket",
+            "title": "Loading ringan",
+            "text": "Website dibuat statis sehingga lebih cepat dibuka, termasuk dari koneksi mobile.",
+            "url": ""
           },
           {
-            "icon": "pen",
-            "title": "Konten & Branding",
-            "text": "Penulisan konten profesional dan identitas visual yang memperkuat citra merek Anda.",
-            "url": "#"
-          },
-          {
-            "icon": "gear",
-            "title": "Pemeliharaan & Dukungan",
-            "text": "Pembaruan rutin, pemantauan keamanan, dan dukungan teknis yang responsif.",
-            "url": "#"
+            "icon": "users",
+            "title": "Lebih aman",
+            "text": "Tanpa database dan plugin berlebihan, risiko gangguan teknis lebih kecil dibanding CMS yang terlalu kompleks.",
+            "url": ""
           }
         ],
         "servicesEyebrow": "Kenapa git CMS ?",
@@ -411,28 +411,28 @@
     },
     "services": [
       {
+        "icon": "target",
+        "title": "SEO ready",
+        "text": "Struktur halaman dibuat rapi dengan title, heading, meta description, dan konten yang mudah dibaca mesin pencari.",
+        "url": ""
+      },
+      {
         "icon": "layers",
-        "title": "Pengembangan Web",
-        "text": "Website cepat, aman, dan ramah SEO yang dibangun sesuai kebutuhan bisnis Anda.",
-        "url": "#"
+        "title": "Mobile first",
+        "text": "Desain diprioritaskan untuk tampilan HP, karena sebagian besar calon pelanggan membuka website dari smartphone.",
+        "url": ""
       },
       {
-        "icon": "chart",
-        "title": "Optimasi SEO",
-        "text": "Riset kata kunci, optimasi teknis, dan strategi konten untuk mendongkrak peringkat di Google.",
-        "url": "#"
+        "icon": "rocket",
+        "title": "Loading ringan",
+        "text": "Website dibuat statis sehingga lebih cepat dibuka, termasuk dari koneksi mobile.",
+        "url": ""
       },
       {
-        "icon": "pen",
-        "title": "Konten & Branding",
-        "text": "Penulisan konten profesional dan identitas visual yang memperkuat citra merek Anda.",
-        "url": "#"
-      },
-      {
-        "icon": "gear",
-        "title": "Pemeliharaan & Dukungan",
-        "text": "Pembaruan rutin, pemantauan keamanan, dan dukungan teknis yang responsif.",
-        "url": "#"
+        "icon": "users",
+        "title": "Lebih aman",
+        "text": "Tanpa database dan plugin berlebihan, risiko gangguan teknis lebih kecil dibanding CMS yang terlalu kompleks.",
+        "url": ""
       }
     ],
     "servicesEyebrow": "Kenapa git CMS ?",
