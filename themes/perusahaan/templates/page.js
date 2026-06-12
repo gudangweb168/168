@@ -1,10 +1,12 @@
 /* ============================================================
    templates/page.js — Halaman statis (TEMA)
-   Dua kolom (isi + sidebar) bila sidebar terisi; jika kosong, isi
-   lebar-fokus. Sidebar muncul di semua halaman SELAIN beranda.
-   Halaman ber-template "kontak" (front-matter `template: kontak`
-   atau slug kontak/contact/hubungi-kami) juga menampilkan blok
-   Kontak + Peta dari Sesuaikan → Kontak setelah isi halaman.
+   - Halaman ber-template "kontak" (front-matter `template: kontak`
+     atau slug kontak/contact/hubungi-kami): KHUSUS. Hanya menampilkan
+     blok Kontak + Peta dari Sesuaikan → Kontak & Peta — TANPA judul
+     halaman, TANPA sidebar, TANPA isi markdown.
+   - Halaman lain: dua kolom (isi + sidebar) bila sidebar terisi; jika
+     kosong, isi lebar-fokus. Sidebar muncul di semua halaman SELAIN
+     beranda.
    ctx: { config, U, lib, site, seo, themeVars, themeContent, page }
    ============================================================ */
 
@@ -24,6 +26,13 @@ module.exports = function page(ctx) {
   var lib = ctx.lib, page = ctx.page;
   var esc = lib.esc;
 
+  // Halaman KONTAK khusus: render hanya blok Kontak + Peta (lebar penuh).
+  // Judul tab/meta tetap diambil dari front-matter halaman oleh inti (ctx.seo).
+  if (isContactPage(page)) {
+    return layout(ctx, contactSection(ctx));
+  }
+
+  // Halaman biasa
   var lead = (page.meta && page.meta.excerpt)
     ? '<p class="page-lead">' + esc(page.meta.excerpt) + "</p>"
     : "";
@@ -49,8 +58,5 @@ module.exports = function page(ctx) {
       "\n    </article>";
   }
 
-  // Sisipkan blok Kontak + Peta pada halaman kontak (lebar penuh, di bawah).
-  var contact = isContactPage(page) ? contactSection(ctx) : "";
-
-  return layout(ctx, article + contact);
+  return layout(ctx, article);
 };
