@@ -202,19 +202,19 @@
         },
         "stats": [
           {
-            "value": "Rp. 800Rb",
+            "value": "800Rb",
             "label": "1 Tahun Pertama"
           },
           {
-            "value": "Rp. 500Rb",
+            "value": "500Rb",
             "label": "Tahun ke-2 Dst"
           },
           {
-            "value": "Domain.com",
+            "value": ".com",
             "label": "Top level domain"
           },
           {
-            "value": "SEO Ready",
+            "value": "SEO",
             "label": "Ramah di mesin pencari & penelusuran AI"
           }
         ],
@@ -382,19 +382,19 @@
     },
     "stats": [
       {
-        "value": "Rp. 800Rb",
+        "value": "800Rb",
         "label": "1 Tahun Pertama"
       },
       {
-        "value": "Rp. 500Rb",
+        "value": "500Rb",
         "label": "Tahun ke-2 Dst"
       },
       {
-        "value": "Domain.com",
+        "value": ".com",
         "label": "Top level domain"
       },
       {
-        "value": "SEO Ready",
+        "value": "SEO",
         "label": "Ramah di mesin pencari & penelusuran AI"
       }
     ],
