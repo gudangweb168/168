@@ -261,7 +261,7 @@
         "newsEnabled": true,
         "newsEyebrow": "",
         "newsTitle": "",
-        "newsIntro": "",
+        "newsIntro": "Website ini menggunakan GitCMS, ini adalah contoh posting artikel",
         "newsCount": 3,
         "ctaBand": {
           "title": "Siap mengembangkan bisnis Anda?",
@@ -300,7 +300,39 @@
             "title": "",
             "count": 4
           }
-        ]
+        ],
+        "faq": {
+          "items": [
+            {
+              "q": "Apakah harga Rp800.000 sudah termasuk domain?",
+              "a": "Ya. Harga tersebut untuk tahun pertama dan sudah termasuk domain .com."
+            },
+            {
+              "q": "Apakah website bisa saya edit sendiri?",
+              "a": "Bisa. Konten website dapat dikelola melalui admin panel GitCMS."
+            },
+            {
+              "q": "Apakah sudah SEO ready?",
+              "a": " Ya. Website dibuat dengan struktur heading yang rapi, meta description, schema markup, breadcrumb, dan halaman yang ringan agar lebih siap untuk kebutuhan SEO."
+            },
+            {
+              "q": "erapa biaya perpanjangan tahun berikutnya?",
+              "a": "Biaya perpanjangan mulai tahun ke-2 dan seterusnya adalah Rp500.000 per tahun."
+            },
+            {
+              "q": "Bisakah dipasang WhatsApp?",
+              "a": "Bisa. Tombol WhatsApp bisa diarahkan langsung ke nomor bisnis Anda."
+            },
+            {
+              "q": "Cocok untuk website apa saja?",
+              "a": "Cocok untuk company profile, bisnis jasa, landing page promosi, profil UMKM, dan halaman penawaran sederhana."
+            }
+          ],
+          "enabled": true,
+          "eyebrow": "FAQ",
+          "title": "Pertanyaan Yang Sering di Ajukan",
+          "intro": ""
+        }
       }
     }
   },
@@ -441,7 +473,7 @@
     "newsEnabled": true,
     "newsEyebrow": "",
     "newsTitle": "",
-    "newsIntro": "",
+    "newsIntro": "Website ini menggunakan GitCMS, ini adalah contoh posting artikel",
     "newsCount": 3,
     "ctaBand": {
       "title": "Siap mengembangkan bisnis Anda?",
@@ -480,7 +512,39 @@
         "title": "",
         "count": 4
       }
-    ]
+    ],
+    "faq": {
+      "items": [
+        {
+          "q": "Apakah harga Rp800.000 sudah termasuk domain?",
+          "a": "Ya. Harga tersebut untuk tahun pertama dan sudah termasuk domain .com."
+        },
+        {
+          "q": "Apakah website bisa saya edit sendiri?",
+          "a": "Bisa. Konten website dapat dikelola melalui admin panel GitCMS."
+        },
+        {
+          "q": "Apakah sudah SEO ready?",
+          "a": " Ya. Website dibuat dengan struktur heading yang rapi, meta description, schema markup, breadcrumb, dan halaman yang ringan agar lebih siap untuk kebutuhan SEO."
+        },
+        {
+          "q": "erapa biaya perpanjangan tahun berikutnya?",
+          "a": "Biaya perpanjangan mulai tahun ke-2 dan seterusnya adalah Rp500.000 per tahun."
+        },
+        {
+          "q": "Bisakah dipasang WhatsApp?",
+          "a": "Bisa. Tombol WhatsApp bisa diarahkan langsung ke nomor bisnis Anda."
+        },
+        {
+          "q": "Cocok untuk website apa saja?",
+          "a": "Cocok untuk company profile, bisnis jasa, landing page promosi, profil UMKM, dan halaman penawaran sederhana."
+        }
+      ],
+      "enabled": true,
+      "eyebrow": "FAQ",
+      "title": "Pertanyaan Yang Sering di Ajukan",
+      "intro": ""
+    }
   },
   "footerText": "Dibuat dengan GitCMS — konten tersimpan di GitHub."
 }
