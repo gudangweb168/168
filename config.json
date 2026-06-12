@@ -215,7 +215,7 @@
           },
           {
             "value": "SEO",
-            "label": "Ramah di mesin pencari & penelusuran AI"
+            "label": "SEo & AEO Ready"
           }
         ],
         "about": {
@@ -224,9 +224,9 @@
             "Proses transparan dengan laporan berkala",
             "Solusi yang disesuaikan dengan tujuan Anda"
           ],
-          "eyebrow": "Tentang Kami",
-          "title": "Mitra digital yang tumbuh bersama bisnis Anda",
-          "text": "Kami membantu perusahaan dari berbagai skala membangun kehadiran digital yang kuat — mulai dari situs web profesional hingga strategi pemasaran yang terukur. Fokus kami sederhana: hasil nyata yang berdampak pada pertumbuhan Anda.",
+          "eyebrow": "Kenapa git CMS ?",
+          "title": "Buat Website yang Siap Mendatangkan Pelanggan",
+          "text": "Karena calon pelanggan tidak butuh website yang rumit. Mereka butuh informasi yang jelas, tampilan yang rapi, dan tombol kontak yang mudah ditemukan.",
           "image": "/public/images/1781275985474-promo.jpg"
         },
         "services": [
@@ -255,9 +255,9 @@
             "url": "#"
           }
         ],
-        "servicesEyebrow": "Apa yang kami lakukan",
-        "servicesTitle": "Layanan Kami",
-        "servicesIntro": "Layanan menyeluruh untuk membangun dan mengembangkan kehadiran digital bisnis Anda.",
+        "servicesEyebrow": "Kenapa git CMS ?",
+        "servicesTitle": "Buat Website yang Siap Mendatangkan Pelanggan",
+        "servicesIntro": "Kami menghadirkan website mobile first dengan performa cepat, desain profesional, SEO ready, AEO ready, schema markup, dan struktur yang mendukung pertumbuhan bisnis Anda.",
         "newsEnabled": true,
         "newsEyebrow": "",
         "newsTitle": "",
@@ -395,7 +395,7 @@
       },
       {
         "value": "SEO",
-        "label": "Ramah di mesin pencari & penelusuran AI"
+        "label": "SEo & AEO Ready"
       }
     ],
     "about": {
@@ -404,9 +404,9 @@
         "Proses transparan dengan laporan berkala",
         "Solusi yang disesuaikan dengan tujuan Anda"
       ],
-      "eyebrow": "Tentang Kami",
-      "title": "Mitra digital yang tumbuh bersama bisnis Anda",
-      "text": "Kami membantu perusahaan dari berbagai skala membangun kehadiran digital yang kuat — mulai dari situs web profesional hingga strategi pemasaran yang terukur. Fokus kami sederhana: hasil nyata yang berdampak pada pertumbuhan Anda.",
+      "eyebrow": "Kenapa git CMS ?",
+      "title": "Buat Website yang Siap Mendatangkan Pelanggan",
+      "text": "Karena calon pelanggan tidak butuh website yang rumit. Mereka butuh informasi yang jelas, tampilan yang rapi, dan tombol kontak yang mudah ditemukan.",
       "image": "/public/images/1781275985474-promo.jpg"
     },
     "services": [
@@ -435,9 +435,9 @@
         "url": "#"
       }
     ],
-    "servicesEyebrow": "Apa yang kami lakukan",
-    "servicesTitle": "Layanan Kami",
-    "servicesIntro": "Layanan menyeluruh untuk membangun dan mengembangkan kehadiran digital bisnis Anda.",
+    "servicesEyebrow": "Kenapa git CMS ?",
+    "servicesTitle": "Buat Website yang Siap Mendatangkan Pelanggan",
+    "servicesIntro": "Kami menghadirkan website mobile first dengan performa cepat, desain profesional, SEO ready, AEO ready, schema markup, dan struktur yang mendukung pertumbuhan bisnis Anda.",
     "newsEnabled": true,
     "newsEyebrow": "",
     "newsTitle": "",
