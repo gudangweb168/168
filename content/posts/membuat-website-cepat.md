@@ -1,13 +1,13 @@
 ---
-title: "5 Cara Membuat Website Lebih Cepat"
+title: 5 Cara Membuat Website Lebih Cepat
 slug: membuat-website-cepat
 date: 2026-05-15
 status: published
-category: "Pengembangan Web"
-author: "Nama Anda"
+category: Pengembangan Web
+author: Nama Anda
 tags: ["performa", "web", "core-web-vitals"]
-excerpt: "Kecepatan situs memengaruhi SEO dan konversi. Berikut lima langkah praktis untuk mempercepat website Anda secara signifikan."
-featured_image: ""
+excerpt: Kecepatan situs memengaruhi SEO dan konversi. Berikut lima langkah praktis untuk mempercepat website Anda secara signifikan.
+featured_image: /public/images/1781277097398-cms-berbasis-github.jpg
 ---
 
 Kecepatan adalah fitur. Pengunjung meninggalkan situs yang lambat, dan Google menurunkan peringkatnya. Berikut lima cara efektif untuk mempercepat website.
