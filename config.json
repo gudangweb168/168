@@ -5,7 +5,9 @@
   "author": "Admin",
   "language": "id",
   "theme": "perusahaan",
-  "themeOptions": {},
+  "themeOptions": {
+    "accent": "#eb2424"
+  },
   "themeData": {
     "company": {
       "options": {},
@@ -165,8 +167,136 @@
       "content": {}
     },
     "perusahaan": {
-      "options": {},
-      "content": {}
+      "options": {
+        "accent": "#eb2424"
+      },
+      "content": {
+        "slides": [
+          {
+            "image": "/public/images/1781272027554-hero-gudangweb-com.png",
+            "kicker": "Selamat Datang",
+            "title": "Solusi digital untuk bisnis anda",
+            "subtitle": "Kami merancang website, strategi SEO, dan konten yang membantu perusahaan Anda tampil profesional dan dipercaya pelanggan.",
+            "btnText": "Hubungi Kami",
+            "btnUrl": "#",
+            "btn2Text": "Lihat Layanan",
+            "btn2Url": "#"
+          },
+          {
+            "image": "/public/images/1781272124881-jasa-pembuatan-website-profesional-di-tangerang.jpg",
+            "kicker": "",
+            "title": "Jasa Pembuatan Website Profesional",
+            "subtitle": "Layanan Pembuatan Website Company Profile, Toko Online, Landing Page",
+            "btnText": "Hubungi Kami",
+            "btnUrl": "#",
+            "btn2Text": "Lihat Semua Layanan",
+            "btn2Url": "#"
+          }
+        ],
+        "heroAutoplay": true,
+        "heroInterval": 6,
+        "headerCta": {
+          "show": true,
+          "text": "Konsultasi Gratis",
+          "url": "https://wa.me/6287741135796"
+        },
+        "stats": [
+          {
+            "value": "120+",
+            "label": "Proyek Selesai"
+          },
+          {
+            "value": "8 Thn",
+            "label": "Pengalaman"
+          },
+          {
+            "value": "4.9/5",
+            "label": "Kepuasan Klien"
+          },
+          {
+            "value": "24  Jam",
+            "label": "Support"
+          }
+        ],
+        "about": {
+          "points": [
+            "Tim berpengalaman lintas disiplin",
+            "Proses transparan dengan laporan berkala",
+            "Solusi yang disesuaikan dengan tujuan Anda"
+          ],
+          "eyebrow": "Tentang Kami",
+          "title": "Mitra digital yang tumbuh bersama bisnis Anda",
+          "text": "Kami membantu perusahaan dari berbagai skala membangun kehadiran digital yang kuat — mulai dari situs web profesional hingga strategi pemasaran yang terukur. Fokus kami sederhana: hasil nyata yang berdampak pada pertumbuhan Anda.",
+          "image": "/public/images/1781272265739-promo.png"
+        },
+        "services": [
+          {
+            "icon": "layers",
+            "title": "Pengembangan Web",
+            "text": "Website cepat, aman, dan ramah SEO yang dibangun sesuai kebutuhan bisnis Anda.",
+            "url": "#"
+          },
+          {
+            "icon": "chart",
+            "title": "Optimasi SEO",
+            "text": "Riset kata kunci, optimasi teknis, dan strategi konten untuk mendongkrak peringkat di Google.",
+            "url": "#"
+          },
+          {
+            "icon": "pen",
+            "title": "Konten & Branding",
+            "text": "Penulisan konten profesional dan identitas visual yang memperkuat citra merek Anda.",
+            "url": "#"
+          },
+          {
+            "icon": "gear",
+            "title": "Pemeliharaan & Dukungan",
+            "text": "Pembaruan rutin, pemantauan keamanan, dan dukungan teknis yang responsif.",
+            "url": "#"
+          }
+        ],
+        "servicesEyebrow": "Apa yang kami lakukan",
+        "servicesTitle": "Layanan Kami",
+        "servicesIntro": "Layanan menyeluruh untuk membangun dan mengembangkan kehadiran digital bisnis Anda.",
+        "newsEnabled": true,
+        "newsEyebrow": "",
+        "newsTitle": "",
+        "newsIntro": "",
+        "newsCount": 3,
+        "ctaBand": {
+          "title": "Siap mengembangkan bisnis Anda?",
+          "text": "Diskusikan kebutuhan proyek Anda dengan tim kami hari ini — konsultasi awal gratis tanpa komitmen.",
+          "button": {
+            "text": "Hubungi Kami",
+            "url": "#"
+          }
+        },
+        "contact": {
+          "eyebrow": "Kontak",
+          "title": "Hubungi Kami",
+          "intro": "Ceritakan kebutuhan proyek Anda, kami bantu carikan solusi terbaiknya.",
+          "address": "JL. Raya STPI Curug KM. 3.6, Tangerang, Banten",
+          "phone": "087741135796",
+          "whatsapp": "6287741135796",
+          "email": "support@gudangweb.com",
+          "hours": "Senin-Jumat 09.00 - 21.00",
+          "mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.0424426404147!2d106.55878609999999!3d-6.2581397!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69fda2f7c9306d%3A0xaf05af1c4afc538f!2sGudang%20Web!5e0!3m2!1sen!2sid!4v1781272640847!5m2!1sen!2sid\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+          "mapsUrl": "https://maps.app.goo.gl/oPHQ74kzsr9mc1V36"
+        },
+        "sidebar": [
+          {
+            "type": "tombol-kontak",
+            "title": "Hubungi Kami",
+            "text": "Konsultasi Gratis untuk kebutuhan anda",
+            "items": [
+              {
+                "label": "Chat Whatsapp",
+                "url": "https://wa.me/6287741135796"
+              }
+            ]
+          }
+        ]
+      }
     }
   },
   "baseUrl": "https://gitcompany.gudangweb.com",
@@ -211,6 +341,132 @@
       "url": "/about/"
     }
   ],
-  "profile": {},
+  "profile": {
+    "slides": [
+      {
+        "image": "/public/images/1781272027554-hero-gudangweb-com.png",
+        "kicker": "Selamat Datang",
+        "title": "Solusi digital untuk bisnis anda",
+        "subtitle": "Kami merancang website, strategi SEO, dan konten yang membantu perusahaan Anda tampil profesional dan dipercaya pelanggan.",
+        "btnText": "Hubungi Kami",
+        "btnUrl": "#",
+        "btn2Text": "Lihat Layanan",
+        "btn2Url": "#"
+      },
+      {
+        "image": "/public/images/1781272124881-jasa-pembuatan-website-profesional-di-tangerang.jpg",
+        "kicker": "",
+        "title": "Jasa Pembuatan Website Profesional",
+        "subtitle": "Layanan Pembuatan Website Company Profile, Toko Online, Landing Page",
+        "btnText": "Hubungi Kami",
+        "btnUrl": "#",
+        "btn2Text": "Lihat Semua Layanan",
+        "btn2Url": "#"
+      }
+    ],
+    "heroAutoplay": true,
+    "heroInterval": 6,
+    "headerCta": {
+      "show": true,
+      "text": "Konsultasi Gratis",
+      "url": "https://wa.me/6287741135796"
+    },
+    "stats": [
+      {
+        "value": "120+",
+        "label": "Proyek Selesai"
+      },
+      {
+        "value": "8 Thn",
+        "label": "Pengalaman"
+      },
+      {
+        "value": "4.9/5",
+        "label": "Kepuasan Klien"
+      },
+      {
+        "value": "24  Jam",
+        "label": "Support"
+      }
+    ],
+    "about": {
+      "points": [
+        "Tim berpengalaman lintas disiplin",
+        "Proses transparan dengan laporan berkala",
+        "Solusi yang disesuaikan dengan tujuan Anda"
+      ],
+      "eyebrow": "Tentang Kami",
+      "title": "Mitra digital yang tumbuh bersama bisnis Anda",
+      "text": "Kami membantu perusahaan dari berbagai skala membangun kehadiran digital yang kuat — mulai dari situs web profesional hingga strategi pemasaran yang terukur. Fokus kami sederhana: hasil nyata yang berdampak pada pertumbuhan Anda.",
+      "image": "/public/images/1781272265739-promo.png"
+    },
+    "services": [
+      {
+        "icon": "layers",
+        "title": "Pengembangan Web",
+        "text": "Website cepat, aman, dan ramah SEO yang dibangun sesuai kebutuhan bisnis Anda.",
+        "url": "#"
+      },
+      {
+        "icon": "chart",
+        "title": "Optimasi SEO",
+        "text": "Riset kata kunci, optimasi teknis, dan strategi konten untuk mendongkrak peringkat di Google.",
+        "url": "#"
+      },
+      {
+        "icon": "pen",
+        "title": "Konten & Branding",
+        "text": "Penulisan konten profesional dan identitas visual yang memperkuat citra merek Anda.",
+        "url": "#"
+      },
+      {
+        "icon": "gear",
+        "title": "Pemeliharaan & Dukungan",
+        "text": "Pembaruan rutin, pemantauan keamanan, dan dukungan teknis yang responsif.",
+        "url": "#"
+      }
+    ],
+    "servicesEyebrow": "Apa yang kami lakukan",
+    "servicesTitle": "Layanan Kami",
+    "servicesIntro": "Layanan menyeluruh untuk membangun dan mengembangkan kehadiran digital bisnis Anda.",
+    "newsEnabled": true,
+    "newsEyebrow": "",
+    "newsTitle": "",
+    "newsIntro": "",
+    "newsCount": 3,
+    "ctaBand": {
+      "title": "Siap mengembangkan bisnis Anda?",
+      "text": "Diskusikan kebutuhan proyek Anda dengan tim kami hari ini — konsultasi awal gratis tanpa komitmen.",
+      "button": {
+        "text": "Hubungi Kami",
+        "url": "#"
+      }
+    },
+    "contact": {
+      "eyebrow": "Kontak",
+      "title": "Hubungi Kami",
+      "intro": "Ceritakan kebutuhan proyek Anda, kami bantu carikan solusi terbaiknya.",
+      "address": "JL. Raya STPI Curug KM. 3.6, Tangerang, Banten",
+      "phone": "087741135796",
+      "whatsapp": "6287741135796",
+      "email": "support@gudangweb.com",
+      "hours": "Senin-Jumat 09.00 - 21.00",
+      "mapEmbed": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.0424426404147!2d106.55878609999999!3d-6.2581397!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69fda2f7c9306d%3A0xaf05af1c4afc538f!2sGudang%20Web!5e0!3m2!1sen!2sid!4v1781272640847!5m2!1sen!2sid\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+      "mapsUrl": "https://maps.app.goo.gl/oPHQ74kzsr9mc1V36"
+    },
+    "sidebar": [
+      {
+        "type": "tombol-kontak",
+        "title": "Hubungi Kami",
+        "text": "Konsultasi Gratis untuk kebutuhan anda",
+        "items": [
+          {
+            "label": "Chat Whatsapp",
+            "url": "https://wa.me/6287741135796"
+          }
+        ]
+      }
+    ]
+  },
   "footerText": "Dibuat dengan GitCMS — konten tersimpan di GitHub."
 }
