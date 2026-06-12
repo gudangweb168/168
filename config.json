@@ -294,6 +294,11 @@
                 "url": "https://wa.me/6287741135796"
               }
             ]
+          },
+          {
+            "type": "recent-posts",
+            "title": "",
+            "count": 4
           }
         ]
       }
@@ -469,6 +474,11 @@
             "url": "https://wa.me/6287741135796"
           }
         ]
+      },
+      {
+        "type": "recent-posts",
+        "title": "",
+        "count": 4
       }
     ]
   },
