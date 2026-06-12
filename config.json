@@ -237,7 +237,7 @@
             "url": ""
           },
           {
-            "icon": "layers",
+            "icon": "check",
             "title": "Mobile first",
             "text": "Desain diprioritaskan untuk tampilan HP, karena sebagian besar calon pelanggan membuka website dari smartphone.",
             "url": ""
@@ -255,7 +255,7 @@
             "url": ""
           }
         ],
-        "servicesEyebrow": "Kenapa git CMS ?",
+        "servicesEyebrow": "Cepat, Aman & Profesional",
         "servicesTitle": "Buat Website yang Siap Mendatangkan Pelanggan",
         "servicesIntro": "Kami menghadirkan website mobile first dengan performa cepat, desain profesional, SEO ready, AEO ready, schema markup, dan struktur yang mendukung pertumbuhan bisnis Anda.",
         "newsEnabled": true,
@@ -417,7 +417,7 @@
         "url": ""
       },
       {
-        "icon": "layers",
+        "icon": "check",
         "title": "Mobile first",
         "text": "Desain diprioritaskan untuk tampilan HP, karena sebagian besar calon pelanggan membuka website dari smartphone.",
         "url": ""
@@ -435,7 +435,7 @@
         "url": ""
       }
     ],
-    "servicesEyebrow": "Kenapa git CMS ?",
+    "servicesEyebrow": "Cepat, Aman & Profesional",
     "servicesTitle": "Buat Website yang Siap Mendatangkan Pelanggan",
     "servicesIntro": "Kami menghadirkan website mobile first dengan performa cepat, desain profesional, SEO ready, AEO ready, schema markup, dan struktur yang mendukung pertumbuhan bisnis Anda.",
     "newsEnabled": true,
