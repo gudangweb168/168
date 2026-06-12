@@ -339,6 +339,10 @@
     {
       "label": "Tentang",
       "url": "/about/"
+    },
+    {
+      "label": "Kontak",
+      "url": "/kontak"
     }
   ],
   "profile": {
