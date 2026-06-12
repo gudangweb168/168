@@ -6,7 +6,8 @@
   "language": "id",
   "theme": "perusahaan",
   "themeOptions": {
-    "accent": "#eb2424"
+    "accent": "#eb2424",
+    "accentDeep": "#7d2138"
   },
   "themeData": {
     "company": {
@@ -168,7 +169,8 @@
     },
     "perusahaan": {
       "options": {
-        "accent": "#eb2424"
+        "accent": "#eb2424",
+        "accentDeep": "#7d2138"
       },
       "content": {
         "slides": [
