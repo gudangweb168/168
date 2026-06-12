@@ -91,6 +91,22 @@ module.exports = {
   newsIntro: "Tips seputar website, SEO, dan pemasaran digital dari tim GudangWEB.",
   newsCount: 3,
 
+  // ---- FAQ (beranda) ----
+  faq: {
+    enabled: true,
+    eyebrow: "FAQ",
+    title: "Pertanyaan yang Sering Diajukan",
+    intro: "Beberapa hal yang sering ditanyakan calon klien seputar layanan website & SEO kami.",
+    items: [
+      { q: "Berapa biaya pembuatan website?", a: "Biaya bergantung pada jenis dan kompleksitas situs (company profile, toko online, atau custom). Hubungi kami untuk penawaran yang sesuai dengan kebutuhan dan anggaran Anda." },
+      { q: "Berapa lama proses pembuatan website?", a: "Umumnya 1–4 minggu, tergantung skala proyek serta kelengkapan materi (teks, gambar, dan kebutuhan fitur)." },
+      { q: "Apakah website sudah dioptimasi untuk SEO?", a: "Ya. Setiap website kami bangun dengan struktur ramah SEO, kecepatan tinggi, dan structured data (JSON-LD) sejak awal agar mudah ditemukan di Google." },
+      { q: "Apa itu SEO Lokal dan apakah bisnis saya membutuhkannya?", a: "SEO Lokal membantu bisnis Anda muncul saat orang mencari layanan di area sekitar (mis. \"jasa pembuatan website Tangerang\") dan di Google Maps. Sangat penting untuk bisnis yang melayani wilayah tertentu." },
+      { q: "Apakah ada layanan pemeliharaan setelah website jadi?", a: "Ada. Kami menyediakan paket pemeliharaan untuk pembaruan, keamanan, backup, dan dukungan teknis berkelanjutan." },
+      { q: "Apakah saya bisa mengelola konten website sendiri?", a: "Bisa. Website dibangun dengan panel admin yang mudah digunakan, dilengkapi panduan singkat agar Anda dapat memperbarui konten secara mandiri." }
+    ]
+  },
+
   // ---- CTA band ----
   ctaBand: {
     title: "Siap punya website yang mendatangkan pelanggan?",

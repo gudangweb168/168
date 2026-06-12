@@ -92,6 +92,22 @@ function getProfile(ctx) {
   newsCount = Math.max(1, Math.min(9, newsCount));
   var newsEnabled = c.newsEnabled !== false;
 
+  /* -------- FAQ (beranda) -------- */
+  var faqC = obj(c.faq);
+  var faqEnabled = faqC.enabled !== false; // default tampil
+  var faqItems = arr(faqC.items)
+    .filter(function (f) { return f && f.q; })
+    .map(function (f) { return { q: str(f.q), a: str(f.a) }; });
+  if (!faqItems.length) faqItems = D.faq.items;
+  var faq = (faqEnabled && faqItems.length)
+    ? {
+        eyebrow: faqC.eyebrow || D.faq.eyebrow,
+        title: faqC.title || D.faq.title,
+        intro: faqC.intro || D.faq.intro,
+        items: faqItems
+      }
+    : null;
+
   /* -------- CTA Band -------- */
   var bandC = obj(c.ctaBand);
   var bandBtnC = obj(bandC.button);
@@ -152,7 +168,8 @@ function getProfile(ctx) {
 
     ctaBand: ctaBand,
     headerCta: headerCta,
-    contact: contact
+    contact: contact,
+    faq: faq
   };
 }
 

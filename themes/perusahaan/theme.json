@@ -1,8 +1,8 @@
 {
   "name": "Perusahaan",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "author": "GudangWEB",
-  "description": "Tema profil perusahaan biru modern profesional — beranda landing dengan hero slider berlatar foto, statistik, profil, layanan, berita, CTA, halaman kontak ber-peta, serta sidebar widget (termasuk Tombol Kontak) di halaman dalam. Semua bagian dapat diatur dari menu Sesuaikan. Konten default bertema GudangWEB (jasa pembuatan website & SEO).",
+  "description": "Tema profil perusahaan biru modern profesional — beranda landing dengan hero slider berlatar foto, statistik, profil, layanan, berita, FAQ (schema FAQPage), CTA, halaman kontak ber-peta, serta sidebar widget (termasuk Tombol Kontak) di halaman dalam. Semua bagian dapat diatur dari menu Sesuaikan. Konten default bertema GudangWEB (jasa pembuatan website & SEO).",
   "screenshot": "",
   "options": {
     "accent": { "type": "color", "label": "Warna Aksen", "default": "#2563eb" },
@@ -101,6 +101,22 @@
           { "key": "newsTitle", "type": "text", "label": "Judul seksi", "placeholder": "Berita & Artikel Terbaru" },
           { "key": "newsIntro", "type": "textarea", "label": "Pengantar seksi", "rows": 2 },
           { "key": "newsCount", "type": "number", "label": "Jumlah artikel", "default": 3, "min": 1, "max": 9 }
+        ]
+      },
+      {
+        "id": "faq",
+        "label": "FAQ",
+        "icon": "?",
+        "description": "Tanya-jawab di beranda, lengkap dengan schema FAQPage untuk SEO/AEO. Nonaktifkan untuk menyembunyikan seksi.",
+        "fields": [
+          { "key": "faq.enabled", "type": "checkbox", "label": "Tampilkan FAQ di beranda", "default": true },
+          { "key": "faq.eyebrow", "type": "text", "label": "Eyebrow seksi", "placeholder": "FAQ" },
+          { "key": "faq.title", "type": "text", "label": "Judul seksi", "placeholder": "Pertanyaan yang Sering Diajukan" },
+          { "key": "faq.intro", "type": "textarea", "label": "Pengantar seksi", "rows": 2 },
+          { "key": "faq.items", "type": "repeater", "label": "Daftar Pertanyaan", "addLabel": "+ Tambah Pertanyaan", "itemLabel": "Pertanyaan", "fields": [
+            { "key": "q", "type": "text", "label": "Pertanyaan", "placeholder": "Berapa biaya pembuatan website?" },
+            { "key": "a", "type": "textarea", "label": "Jawaban", "rows": 3 }
+          ] }
         ]
       },
       {
