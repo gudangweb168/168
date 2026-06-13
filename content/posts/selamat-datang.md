@@ -1,5 +1,5 @@
 ---
-title: Selamat Datang di Blog Saya
+title: Selamat Datang di Web Saya
 slug: selamat-datang
 date: 2026-06-05
 status: published
